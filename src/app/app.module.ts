@@ -8,6 +8,7 @@ import { KapcsolatComponent } from './kapcsolat/kapcsolat.component';
 import { GaleriaComponent } from './galeria/galeria.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { NavigacioComponent } from './navigacio/navigacio.component';
+import { AjanlatkeresComponent } from './ajanlatkeres/ajanlatkeres.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { NavigacioComponent } from './navigacio/navigacio.component';
     KezdolapComponent,
     KapcsolatComponent,
     GaleriaComponent,
-    NavigacioComponent
+    NavigacioComponent,
+    AjanlatkeresComponent
   ],
   imports: [
     BrowserModule,

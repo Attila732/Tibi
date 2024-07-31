@@ -1,0 +1,33 @@
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+  }
+  
+  .form-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+  }
+  
+  .btn-submit {
+    background-color: gold;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .btn-submit:hover {
+    background-color: goldenrod;
+    color: white;
+  }
+  
+  .btn-submit:focus {
+    box-shadow: none;
+  }
