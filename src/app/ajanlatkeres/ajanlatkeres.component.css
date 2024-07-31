@@ -1,6 +1,8 @@
 .container {
-    max-width: 600px;
-    margin-top: 50px;
+    max-width: 900px;
+    margin-top: 90px;
+    font-family: 'Georgia', serif;
+    border-radius: 8px;
   }
   
   .form-container {
@@ -10,7 +12,7 @@
   }
   
   .form-control {
-    border: 1px solid #ced4da;
+    border: 1px solid #a8afb6;
     border-radius: 5px;
   }
   

@@ -8,6 +8,42 @@ import { Component } from '@angular/core';
 export class GaleriaComponent {
   images = [
     {
+      src: 'assets/viacolor/994.JPG',
+      alt: 'Image 1',
+      title: 'Térkövezés',
+      description: 'Description for Image 1'
+    },
+    {
+      src: 'assets/viacolor/995.JPG',
+      alt: 'Image 1',
+
+      description: 'Description for Image 1'
+    },
+    {
+      src: 'assets/viacolor/996.JPG',
+      alt: 'Image 1',
+   
+      description: 'Description for Image 1'
+    },
+    {
+      src: 'assets/csempe/991.JPG',
+      alt: 'Image 1',
+      title: 'Csempézés',
+      description: 'Description for Image 1'
+    },
+    {
+      src: 'assets/csempe/992.JPG',
+      alt: 'Image 1',
+    
+      description: 'Description for Image 1'
+    },
+    {
+      src: 'assets/csempe/993.JPG',
+      alt: 'Image 1',
+
+      description: 'Description for Image 1'
+    },
+    {
       src: 'assets/bolcsode/31.jpg',
       alt: 'Image 1',
       title: 'Bölcsöde építés',
@@ -83,22 +119,7 @@ export class GaleriaComponent {
     //   title: 'Image 3',
     //   description: 'Description for Image 3'
     // },
-    {
-      src: 'assets/csohidfot/21.jpg',
-      alt: 'Image 3',
-      title: 'Csőhíd építés (fémszerkezet)',
-      description: 'Description for Image 3'
-    },
-    {
-      src: 'assets/csohidfot/22.jpg',
-      alt: 'Image 3',
-     
-    },
-    {
-      src: 'assets/csohidfot/211.jpg',
-      alt: 'Image 3',
-     
-    },
+
     // {
     //   src: 'assets/karoligasparbontas/51.jpg',
     //   alt: 'Image 3',
@@ -303,6 +324,17 @@ export class GaleriaComponent {
     //   title: 'Image 3',
     //   description: 'Description for Image 3'
     // }
+    {
+      src: 'assets/csohidfot/21.jpg',
+      alt: 'Image 3',
+      title: 'Csőhíd építés (fémszerkezet)',
+      description: 'Description for Image 3'
+    },
+    {
+      src: 'assets/csohidfot/22.jpg',
+      alt: 'Image 3',
+     
+    },
   ];
 
 }

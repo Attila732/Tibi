@@ -2,7 +2,9 @@
 body {
     background-color: #f5f5f5;
     font-family: 'Georgia', serif;
-    border-radius: 8px;
+    border-radius: 1px;
+
+
   }
   
   h1, h2 {
@@ -10,7 +12,7 @@ body {
   }
   
   .lead {
-    color: #555;
+    color: black;
   }
   
   .list-group-item {
