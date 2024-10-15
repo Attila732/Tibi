@@ -8,7 +8,7 @@
   .form-container {
     background-color: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 10px rgb(255, 197, 1);
   }
   
   .form-control {
@@ -17,7 +17,7 @@
   }
   
   .btn-submit {
-    background-color: gold;
+    background-color: #FFC107;
     color: white;
     border-radius: 5px;
     border: none;

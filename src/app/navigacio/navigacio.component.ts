@@ -17,4 +17,5 @@ export class NavigacioComponent {
       this.toggleNavbar(); // Collapse the navbar when a nav item is clicked
     }
   }
+  
 }
